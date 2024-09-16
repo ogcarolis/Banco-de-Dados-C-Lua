@@ -35,5 +35,7 @@ Exemplo:
 
 ## Desenvolvedores
 Carolina Gimenez
+
 Eduarda Medeiros
+
 Gustavo Pagnotta
